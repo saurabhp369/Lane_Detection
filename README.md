@@ -11,9 +11,8 @@ To run the code:
 ![alt text](https://github.com/saurabhp369/Lane_Detection/blob/main/Output/Screenshot%202023-02-04%20at%2010.54.34%20PM.png)
 ![alt text](https://github.com/saurabhp369/Lane_Detection/blob/main/Output/Screenshot%202023-02-04%20at%2010.54.47%20PM.png)
 ![alt text](https://github.com/saurabhp369/Lane_Detection/blob/main/Output/Screenshot%202023-02-04%20at%2010.54.56%20PM.png)
-
-
-    
+![alt text](https://github.com/saurabhp369/Lane_Detection/blob/main/Output/Screenshot%202023-02-04%20at%2010.55.08%20PM.png)
+ 
 Output:
 
 For sraight lanes:
